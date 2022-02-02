@@ -1,3 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="/best-movies.png" width="400"></a></p>
+ <img src="https://res.cloudinary.com/hicm/image/upload/v1643832732/github/best-movies_uujkru.png" >
 
 ## Best Movies
